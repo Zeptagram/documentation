@@ -1,8 +1,8 @@
-# Zeptagram Platform - Technical Documentation
+# TokenizeMe Platform - Technical Documentation
 
 ## Executive Summary
 
-Zeptagram is a blockchain-based real-world asset (RWA) tokenization platform that evolved from a music rights tokenization system into a broader RWA platform. The platform enables fractional ownership of assets through smart contracts deployed on the **Stellar blockchain** using **Soroban smart contracts**.
+TokenizeMe is a blockchain-based real-world asset (RWA) tokenization platform that evolved from a music rights tokenization system into a broader RWA platform. The platform enables fractional ownership of assets through smart contracts deployed on the **Stellar blockchain** using **Soroban smart contracts**.
 
 ---
 
@@ -108,10 +108,10 @@ The platform previously supported:
 
 ```javascript
 // Development
-Domain: https://zepta-new-api.zeptagram.com
-Web UI: https://new-ui-test.zeptagram.com
-Admin: https://zepta-admin.zeptagram.com
-Trading Server: https://trade-server-test.zeptagram.com
+Domain: https://zepta-new-api.tokenizeme.com
+Web UI: https://new-ui-test.tokenizeme.com
+Admin: https://zepta-admin.tokenizeme.com
+Trading Server: https://trade-server-test.tokenizeme.com
 
 // Network
 Stellar Network: Testnet
@@ -491,7 +491,7 @@ pub fn set_admin(e: Env, new_admin: Address) {
 **Emergency Contacts**:
 ```javascript
 collection_agency: {
-    email: 'vishal@zeptagram.io'
+    email: 'vishal@tokenizeme.se'
 }
 ```
 
@@ -708,7 +708,7 @@ Config:
 ```
 
 #### Retained Infrastructure
-- **Trading Server**: `https://trade-server-test.zeptagram.com`
+- **Trading Server**: `https://trade-server-test.tokenizeme.com`
 - **EOSIO Node**: `http://test.telos.eosusa.io`
 - **Wallets**: Legacy accounts still in config
 
@@ -938,13 +938,9 @@ Explorer: https://stellar.expert/explorer/testnet/contract/CAH4Q...
 
 ## 9. Contact & Resources
 
-**Development Team**: cyberne7work  
-**Admin Contact**: vishal@zeptagram.io  
+**Development Team**: NixonBit Private Limited  
+**Admin Contact**: vishal@tokenizeme.se  
 
-**Key URLs**:
-- API: `https://zepta-new-api.zeptagram.com`
-- Web UI: `https://new-ui-test.zeptagram.com`
-- Admin Dashboard: `https://zepta-admin.zeptagram.com`
 
 **Documentation Files**:
 - `SOROBAN_API_FRONTEND_GUIDE.md` - Complete API reference
