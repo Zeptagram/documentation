@@ -1,8 +1,8 @@
-# 🟣 TokenizeMe — Team Profile Document
+# 🟣 TokenizeMe — Web3 Team Profile
 
 ## 🚀 About TokenizeMe
 
-TokenizeMe is a next-generation platform transforming real-world and digital assets into secure, tradeable tokens using blockchain technology. Our team consists of highly skilled engineers, developers, and architects with expertise in Web3, mobile development, scalable backend systems, and cloud infrastructure.
+TokenizeMe is a next-generation Web3 platform transforming real-world and digital assets into secure, tradeable tokens using blockchain technology. Our team consists of highly skilled Web3 engineers, blockchain developers, and smart contract architects with deep expertise in decentralized systems, tokenization, DeFi, and scalable blockchain infrastructure.
 
 ---
 
@@ -10,127 +10,139 @@ TokenizeMe is a next-generation platform transforming real-world and digital ass
 
 ---
 
-### 1️⃣ Anjali Patel — Frontend Developer
+### 1️⃣ Anjali Patel — Web3 Frontend Developer
 
-**Role:** Frontend Developer  
+**Role:** Web3 Frontend Developer  
 **Experience:** NixonBit Pvt. Ltd  
 **Key Skills:**
 
-* HTML, CSS, JavaScript
 * React.js, Tailwind CSS
-* WordPress, Bootstrap
-* Responsive UI development
-* Cross-functional collaboration
+* Web3.js, Ethers.js
+* Wallet Integration (MetaMask, WalletConnect)
+* DApp UI/UX Development
+* Smart Contract Frontend Integration
+* Responsive Web3 Interfaces
 
 **Summary:**  
-A passionate frontend developer specializing in clean, responsive interfaces. Strong in React.js with a solid design sense and the ability to convert UI designs into pixel-perfect implementations.
+A passionate Web3 frontend developer specializing in decentralized application interfaces. Strong in React.js with expertise in blockchain wallet integrations and creating intuitive DApp experiences for token holders and investors.
 
 ---
 
-### 2️⃣ Kaushiki Sahu — Senior Software Engineer (Backend)
+### 2️⃣ Kaushiki Sahu — Senior Blockchain Backend Engineer
 
-**Role:** Senior Backend Engineer  
+**Role:** Senior Blockchain Backend Engineer  
 **Experience:** EY, Tata AIG, Blockcube, TCS  
 **Key Skills:**
 
 * Node.js, Express.js, NestJS
+* Blockchain API Integration
+* Web3 Infrastructure & Indexing
 * MongoDB, MySQL, Redis
-* AWS (SQS, S3, ECS, Lambda)
-* Microservices Architecture
-* API Design & Validation (AJV)
+* AWS Cloud Architecture
+* Smart Contract Backend Services
+* Microservices for DeFi
 
 **Summary:**  
-Kaushiki is a backend specialist with 7+ years of experience building scalable enterprise-level services. Expertise in the insurance domain, backend APIs, and high-performance distributed systems.
+Kaushiki is a blockchain backend specialist with 7+ years of experience building scalable Web3 infrastructure. Deep expertise in blockchain API integration, off-chain data indexing, and high-performance distributed systems supporting tokenization platforms.
 
 ---
 
-### 3️⃣ Sahitya Kumar Suman — Lead Senior Software Engineer (Full Stack & Web3)
+### 3️⃣ Sahitya Kumar Suman — Lead Web3 Architect & Smart Contract Engineer
 
-**Role:** Lead Senior Software Engineer  
-**Experience:** Fynd/Jio, Quillhash, Darwin Labs  
+**Role:** Lead Web3 Architect & Blockchain Engineer  
+**Experience:** Fynd/Jio, Quillhash (Smart Contract Auditing), Darwin Labs  
 **Key Skills:**
 
-* Node.js, Kafka, Redis
-* PostgreSQL, MongoDB
-* Web3, Smart Contracts
-* Microservices & Real-Time Systems
-* High-scale architecture (200K+ concurrency)
+* Smart Contract Development (Solidity, Rust)
+* Web3 Architecture & DeFi Protocols
+* NFT & Tokenization Systems
+* Blockchain Security & Auditing
+* Crypto Exchange Infrastructure
+* High-scale Distributed Systems (200K+ concurrency)
+* Node.js, Kafka, PostgreSQL
 
 **Summary:**  
-A highly experienced engineer (8+ years) specializing in large-scale backend systems, crypto exchanges, real-time platforms, and NFT/marketplace development. Has built platforms used by millions and contributed to major blockchain-based projects.
+A highly experienced Web3 architect (8+ years) specializing in smart contract development, crypto exchanges, and NFT/tokenization platforms. Background in blockchain security auditing at Quillhash. Has architected and built decentralized systems used by millions of users.
 
 ---
 
-### 4️⃣ Sandeep Kumar — Frontend Developer
+### 4️⃣ Sandeep Kumar — Web3 Frontend Developer
 
-**Role:** Frontend Developer  
+**Role:** Web3 Frontend Developer  
 **Experience:** NixonBit Pvt. Ltd  
 **Key Skills:**
 
 * React.js, Next.js
-* Redux, Zustand
-* Tailwind CSS, Chakra UI, Material UI, Shadcn UI
-* REST APIs, Web APIs
-* Socket.IO real-time integrations
+* Web3.js, Ethers.js, Wagmi
+* Wallet Integration (WalletConnect, Freighter)
+* DApp Development & Smart Contract Integration
+* Real-time Blockchain Data (WebSocket, Socket.IO)
+* Modern UI Libraries (Tailwind, Chakra, Shadcn)
 
 **Summary:**  
-Focused on building dynamic, modern, high-performance UIs. Experienced in designing dashboards, location-aware applications, and real-time features supporting large user bases.
+Focused on building dynamic, modern DApp interfaces with seamless blockchain integration. Experienced in creating Web3 dashboards, token management interfaces, and real-time blockchain data visualization supporting large user bases.
 
 ---
 
-### 5️⃣ Akshit B. Chovatiya — Flutter Engineer
+### 5️⃣ Akshit B. Chovatiya — Web3 Mobile Developer
 
-**Role:** Mobile Application Developer (Flutter)  
+**Role:** Web3 Mobile Application Developer (Flutter)  
 **Experience:** KOL Limited, MobileFirst, Rejoice Hub  
 **Key Skills:**
 
 * Flutter, Dart
-* Firebase, REST APIs, GraphQL
-* Bloc, Riverpod, GetX
-* App Store & Play Store deployment
-* IoT App Development
-* Real-time apps, e-commerce apps
+* Web3 Mobile Integration
+* Wallet SDK Integration (WalletConnect, Trust Wallet)
+* Blockchain API Integration
+* DApp Mobile Development
+* Firebase, GraphQL
+* Bloc, Riverpod State Management
 
 **Summary:**  
-A mobile app specialist with 5+ years experience building high-quality cross-platform apps. Skilled in performance optimization, complex UI/UX, payment integrations, and multi-app ecosystems.
+A Web3 mobile specialist with 5+ years experience building blockchain-enabled cross-platform apps. Expertise in mobile wallet integration, crypto payment systems, NFT marketplaces, and decentralized mobile applications with seamless on-chain interactions.
 
 ---
 
-### 6️⃣ Vishal Patel — Full Stack Developer
+### 6️⃣ Vishal Patel — Full Stack Web3 Engineer & Smart Contract Developer
 
-**Role:** Full Stack Engineer  
-**Experience:** GoodBlocks, TokenizeMe, Blockcube, Quillhash  
+**Role:** Full Stack Web3 Engineer & Smart Contract Developer  
+**Experience:** GoodBlocks, TokenizeMe, Blockcube, Quillhash (Blockchain Auditing)  
 **Key Skills:**
 
+* Smart Contract Development (Solidity, Rust, Soroban)
+* Web3 Backend Architecture
+* Blockchain Integration (Stellar, Ethereum)
 * Node.js, React Native
-* MongoDB, PostgreSQL, Redis
+* DeFi Protocols & Tokenization
+* Web3 Infrastructure (IPFS, The Graph)
 * AWS, Docker, Kubernetes
-* Microservices & DevOps
-* Blockchain, Smart Contracts
-* CI/CD Automation
+* Decentralized Identity & Authentication
 
 **Summary:**  
-A full-stack engineer with 6+ years in mobile + backend + blockchain systems. Expertise in real-time chat, SDK development, decentralized systems, high-performance backend services, and secure authentication flows.
+A full-stack Web3 engineer with 6+ years specializing in smart contract development and blockchain infrastructure. Extensive experience building tokenization platforms, DeFi protocols, NFT systems, and decentralized applications. Background in blockchain security auditing at Quillhash with expertise in Stellar Soroban and EVM-based smart contracts.
 
 ---
 
 ## 📌 Summary Table
 
-| Name                    | Role                    | Key Skills                                    |
-| ----------------------- | ----------------------- | --------------------------------------------- |
-| **Anjali Patel**        | Frontend Developer      | HTML, CSS, JS, React, Tailwind                |
-| **Kaushiki Sahu**       | Senior Backend Engineer | Node.js, NestJS, MySQL, AWS, Microservices    |
-| **Sahitya Kumar Suman** | Lead Senior Engineer    | Node.js, Kafka, Web3, Microservices           |
-| **Sandeep Kumar**       | Frontend Developer      | React, Next.js, Redux, Tailwind, UI Libraries |
-| **Akshit B. Chovatiya** | Flutter Developer       | Flutter, Firebase, Bloc, Riverpod             |
-| **Vishal Patel**        | Full Stack Developer    | Node.js, React Native, AWS, Blockchain        |
+| Name                    | Role                           | Key Skills                                          |
+| ----------------------- | ------------------------------ | --------------------------------------------------- |
+| **Anjali Patel**        | Web3 Frontend Developer        | React, Web3.js, Wallet Integration, DApp UI         |
+| **Kaushiki Sahu**       | Blockchain Backend Engineer    | Node.js, Blockchain APIs, Web3 Infrastructure       |
+| **Sahitya Kumar Suman** | Lead Web3 Architect            | Smart Contracts, DeFi, NFTs, Solidity, Rust         |
+| **Sandeep Kumar**       | Web3 Frontend Developer        | React, Next.js, Ethers.js, DApp Development         |
+| **Akshit B. Chovatiya** | Web3 Mobile Developer          | Flutter, Wallet SDK, Blockchain Mobile Integration  |
+| **Vishal Patel**        | Full Stack Web3 Engineer       | Smart Contracts, Soroban, Stellar, DeFi, Tokenization |
 
 ---
 
-## 🟣 TokenizeMe Team Strengths
+## 🟣 TokenizeMe Web3 Team Strengths
 
-- **Web3 & Blockchain Expertise**: Multiple team members with hands-on experience in smart contracts, NFTs, and decentralized systems
-- **Full-Stack Coverage**: Complete capability from mobile apps (Flutter, React Native) to backend microservices and frontend interfaces
-- **Scalability Focus**: Proven track record building systems handling 200K+ concurrent users
-- **Modern Tech Stack**: Cutting-edge frameworks and tools including Next.js, NestJS, Kafka, and cloud infrastructure
-- **Enterprise Experience**: Team members from leading companies like EY, Jio, and TCS
+- **🔗 Deep Blockchain Expertise**: Team members with extensive experience in smart contract development, auditing (Quillhash), and production Web3 systems
+- **💎 Tokenization Specialists**: Built live tokenization platforms, NFT marketplaces, and fractional ownership systems on multiple chains
+- **⚡ Multi-Chain Experience**: Expertise across Stellar/Soroban, Ethereum/EVM, and blockchain interoperability
+- **🔐 Security-First Approach**: Background in smart contract auditing and blockchain security best practices
+- **📱 Full-Stack Web3**: End-to-end DApp development from smart contracts to mobile wallets and Web3 frontends
+- **🚀 DeFi & RWA Focus**: Specialized in decentralized finance protocols and real-world asset tokenization
+- **⚙️ Production-Ready**: Built scalable Web3 systems handling 200K+ concurrent users with proven reliability
+- **🏢 Enterprise Background**: Team members from leading tech and blockchain companies (EY, Jio, Quillhash, Blockcube)
